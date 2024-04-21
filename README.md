@@ -106,6 +106,7 @@ Just to speed things up a bit, paste the following code into `index.html`:
   </head>
   <body>
     <!--All our work for this lesson will go here-->
+    
   </body>
 </html>
 ```
